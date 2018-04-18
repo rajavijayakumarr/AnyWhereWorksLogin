@@ -18,9 +18,12 @@ class ViewController: UIViewController {
     }
 
     @IBAction func buttonPressed(_ sender: UIButton) {
+//        before commit
+//        print("this is a button")
+//        print("this is a git tutorial")
         
-        print("this is a button")
-        print("this is a git tutorial")
+//        after commit
+        print("you have finished")
     }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
