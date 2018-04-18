@@ -15,6 +15,7 @@
 		CE844115208709B600D5542A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE844113208709B600D5542A /* LaunchScreen.storyboard */; };
 		CE844120208709B600D5542A /* AnyWhereWorksLoginTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE84411F208709B600D5542A /* AnyWhereWorksLoginTests.swift */; };
 		CE84412B208709B600D5542A /* AnyWhereWorksLoginUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE84412A208709B600D5542A /* AnyWhereWorksLoginUITests.swift */; };
+		CE844139208711B400D5542A /* BranchExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE844138208711B300D5542A /* BranchExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		CE844126208709B600D5542A /* AnyWhereWorksLoginUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnyWhereWorksLoginUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE84412A208709B600D5542A /* AnyWhereWorksLoginUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyWhereWorksLoginUITests.swift; sourceTree = "<group>"; };
 		CE84412C208709B600D5542A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE844138208711B300D5542A /* BranchExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BranchExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				CE844107208709B300D5542A /* AppDelegate.swift */,
 				CE844109208709B300D5542A /* ViewController.swift */,
+				CE844138208711B300D5542A /* BranchExample.swift */,
 				CE84410B208709B300D5542A /* Main.storyboard */,
 				CE844111208709B600D5542A /* Assets.xcassets */,
 				CE844113208709B600D5542A /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE844139208711B400D5542A /* BranchExample.swift in Sources */,
 				CE84410A208709B300D5542A /* ViewController.swift in Sources */,
 				CE844108208709B300D5542A /* AppDelegate.swift in Sources */,
 				CE844110208709B300D5542A /* AnyWhereWorksLogin.xcdatamodeld in Sources */,
